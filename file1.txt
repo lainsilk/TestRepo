@@ -1,0 +1,11 @@
+<!DOCTYPE>
+<html>
+<head>
+	<tittle>Sample</title>
+</head>
+<body>
+       Querty
+       zup!
+</body>
+</head>
+</html>
